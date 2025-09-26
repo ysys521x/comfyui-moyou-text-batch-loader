@@ -11,5 +11,9 @@
 在大批量自动加载提示词生图中实现每加载一套词返回一套词生成并得到一张图。
 可以再批量中实时观察测试结果。
 <img width="1377" height="968" alt="workflow" src="https://github.com/user-attachments/assets/9d7af0c4-6adc-4434-8a31-d07a23686e74" />
-https://github.com/user-attachments/assets/d5a43d0c-2fa8-4e0d-b841-a65532be0b26
+
+
+
+演示视频：
+https://github.com/user-attachments/assets/de5f1467-3c67-4aa5-b5c7-7e0efe420bef
 
